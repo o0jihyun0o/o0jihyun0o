@@ -1,12 +1,16 @@
+# ✨ Hi, I'm Jihyun Kwon
 
-# Jihyun Kwon
+- Sogang University
+- Learning Python
 
-:school: Sogang University
 
-<div>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<div/>
+### 👩‍💻 Skill Stack
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=o0jihyun0o&show_icons=true&hide=issues,contribs)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o0jihyun0o&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 🔓 Solved.ac
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ringpop0118)](https://solved.ac/ringpop0118)
+  
