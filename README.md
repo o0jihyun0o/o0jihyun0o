@@ -9,3 +9,4 @@
 
 [![Jihyun's GitHub States](https://github-readme-stats.vercel.app/api?username=o0jihyun0o)](https://github.com/anuraghazra/github-readme-stats)
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o0jihyun0o&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
