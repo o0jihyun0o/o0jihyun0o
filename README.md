@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&height=200&color=d5e6f5)
+
 # Hi, I'm Jihyun Kwon 👩‍💻
 
 - Sogang University
@@ -20,3 +22,5 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ringpop0118)](https://solved.ac/ringpop0118)
+
+![footer](https://capsule-render.vercel.app/api?section=footer&height=200&color=d5e6f5)
